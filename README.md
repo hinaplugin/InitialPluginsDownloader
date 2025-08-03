@@ -1,0 +1,2 @@
+# InitialPluginsDownloader
+初期プラグインをダウンロード
