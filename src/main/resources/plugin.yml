@@ -1,0 +1,6 @@
+name: InitialPluginsDownloader
+version: '1.0.0'
+main: com.hinaplugin.initialPluginsDownloader.InitialPluginsDownloader
+api-version: '1.20'
+authors: [ hina2113 ]
+description: 初期プラグインをダウンロード
